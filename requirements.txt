@@ -1,0 +1,9 @@
+matplotlib
+numpy
+Pillow
+torch
+torchvision
+elasticdeform
+pandas
+scipy
+scikit-image
